@@ -1,2 +1,2 @@
-# assets
+# Assets
 Repositório com arquivos para serem usados
